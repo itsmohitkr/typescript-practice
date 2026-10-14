@@ -1,0 +1,11 @@
+node_modules
+dist
+package-lock.json
+
+# Environment variables
+.env
+.env.*
+
+# Prisma generated client & migrations
+src/generated/prisma
+prisma/migrations
